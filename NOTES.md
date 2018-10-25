@@ -21,3 +21,7 @@ Generics let you abstract over a datastructure and other things
 
 
 Collection classes and interface 
+
+Iterators are cool
+- you can make an iterator that iterates through a linkedList or whatever data structure and keep track of where you are. Can even add and remove things from the list as well. 
+- The generic type of the list iterator must match the generic type of the linkedlist
